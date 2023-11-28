@@ -11,7 +11,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: flex-end;
-    margin: 40px; /* Add 50 pixels of margin around the entire array */
+    margin: 40px; 
 }
 
 .array-bar {
